@@ -1,2 +1,2 @@
 <HTML> 
-<B>The Hood gourmet Inc</b>
+<b><I>The Hood gourmet Inc</I></b>
